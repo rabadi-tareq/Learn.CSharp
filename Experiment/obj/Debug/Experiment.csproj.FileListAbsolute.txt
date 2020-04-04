@@ -1,0 +1,6 @@
+C:\dev\Learn\Learn.CSharp\Experiment\bin\Debug\Experiment.exe.config
+C:\dev\Learn\Learn.CSharp\Experiment\bin\Debug\Experiment.exe
+C:\dev\Learn\Learn.CSharp\Experiment\bin\Debug\Experiment.pdb
+C:\dev\Learn\Learn.CSharp\Experiment\obj\Debug\Experiment.csproj.CoreCompileInputs.cache
+C:\dev\Learn\Learn.CSharp\Experiment\obj\Debug\Experiment.exe
+C:\dev\Learn\Learn.CSharp\Experiment\obj\Debug\Experiment.pdb
