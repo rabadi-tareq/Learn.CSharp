@@ -1,0 +1,3 @@
+﻿# Item 45: Use Exceptions to Report Method Contract Failures
+>  It is your responsibility to throw an exception whenever your method cannot complete its contract. Contract failures are always reported by throwing exceptions. Because exceptions should not be used as a general flow-control mechanism, you should also provide an alternative set of methods that enable developers to test for possible invalid conditions before calling methods that might throw exceptions.
+>  ![GeorgeTown](323218_10150901379592000_1668071585_o.jpg)

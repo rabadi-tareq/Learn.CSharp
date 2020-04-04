@@ -1,1 +1,1 @@
-# Learn.CSharp
+![Effective C# Book - 6.0](Effective_CSharp6.0/EffectiveCSharp.jpg)
