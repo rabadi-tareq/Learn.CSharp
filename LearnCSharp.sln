@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Users\Tareq\Pictures\EffectiveCSharp.jpg = ..\..\..\Users\Tareq\Pictures\EffectiveCSharp.jpg
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item49_PreferExceptionFiltersToCatchAndReThrow", "Item49_PreferExceptionFiltersToCatchAndReThrow\Item49_PreferExceptionFiltersToCatchAndReThrow.csproj", "{9303C82F-F59A-49AC-8D32-2DE26B33E073}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{BD593153-0C1E-408B-A6D7-BB9E2B4AEC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD593153-0C1E-408B-A6D7-BB9E2B4AEC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD593153-0C1E-408B-A6D7-BB9E2B4AEC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9303C82F-F59A-49AC-8D32-2DE26B33E073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9303C82F-F59A-49AC-8D32-2DE26B33E073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9303C82F-F59A-49AC-8D32-2DE26B33E073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9303C82F-F59A-49AC-8D32-2DE26B33E073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5A9CCE0C-F4E2-4F6F-A8B6-C5E7EF49354A} = {ACEA64CA-0D0A-4182-8665-E543D43E35E3}
 		{BD593153-0C1E-408B-A6D7-BB9E2B4AEC73} = {5A9CCE0C-F4E2-4F6F-A8B6-C5E7EF49354A}
+		{9303C82F-F59A-49AC-8D32-2DE26B33E073} = {5A9CCE0C-F4E2-4F6F-A8B6-C5E7EF49354A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BD5BFEB6-F580-4648-94F6-03D4AF11657C}
