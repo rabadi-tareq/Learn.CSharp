@@ -12,3 +12,6 @@ C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\obj\Debug\Item45_UseExceptionsToRe
 C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\obj\Debug\Item45_UseExceptionsToReportMethodContractFailures.csproj.CoreCompileInputs.cache
 C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\obj\Debug\Experiment.exe
 C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\obj\Debug\Experiment.pdb
+C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\bin\Debug\Utilities.dll
+C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\bin\Debug\Utilities.pdb
+C:\dev\Learn\Learn.CSharp\Effective_CSharp6.0\obj\Debug\Item45_UseExceptionsToReportMethodContractFailures.csproj.CopyComplete

@@ -1,6 +1,6 @@
-﻿using ExceptionsPractices;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using Utilities;
 
 namespace Experiment
 {
@@ -38,7 +38,7 @@ namespace Experiment
 
         private static void ReportErrorToUser(string testConditionsFailedPleaseCheckWidgets)
         {
-            testConditionsFailedPleaseCheckWidgets.Log();
+            testConditionsFailedPleaseCheckWidgets.LogToConsole();
         }
     }
 }

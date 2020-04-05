@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using ExceptionsPractices;
+using Utilities;
 
 namespace Experiment
 {
@@ -34,7 +34,7 @@ namespace Experiment
         {
             if(!AreAllBasicWidgetsAvailable())
                 throw new WorkerException($"Only {Widgets.Count} is supplied, the minimum is {MinimumBasicWidgetCount}");
-            $"Foundation with {Widgets.Count} has been built".Log();
+            $"Foundation with {Widgets.Count} has been built".LogToConsole();
         }
 
         private bool AreAllBasicWidgetsAvailable()

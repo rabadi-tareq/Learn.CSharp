@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Extensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Widget.cs" />
@@ -60,6 +59,12 @@
     <Content Include="EffectiveCSharp.jpg" />
     <Content Include="EffectiveCSharp_small.png" />
     <Content Include="MoreEffectiveCSharp_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{82ec74fb-def6-49b7-b78f-47f100705ca7}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
